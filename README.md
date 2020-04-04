@@ -3,10 +3,10 @@ Back in 2007/2008 I had some fun with BlitzMax, a programming language dedicated
 # Hearts and stars
 ![Hearts and stars](hearts_and_stars.png)
 
-**Executable**: *hearts_and_stars.exe* (Windows, Linux with Wine)
-**Full screen**: Yes, *hearts_and_stars-fullscreen.exe*
-**Windowed**: Yes, *hearts_and_stars-windowed.exe*
-**Exit key**: SPACE
+- **Executable**: *hearts_and_stars.exe* (Windows, Linux with Wine)
+- **Full screen**: Yes, *hearts_and_stars-fullscreen.exe*
+- **Windowed**: Yes, *hearts_and_stars-windowed.exe*
+- **Exit key**: SPACE
 # Plasma
 ![Plasma](plasma.png)
 
