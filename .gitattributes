@@ -1,0 +1,8 @@
+*.png linguist-detectable=false
+*.exe linguist-detectable=false
+*.scr linguist-detectable=false
+*.bak linguist-detectable=false
+*.txt linguist-detectable=false
+*.ttf linguist-detectable=false
+*.TTF linguist-detectable=false
+*.psd linguist-detectable=false
